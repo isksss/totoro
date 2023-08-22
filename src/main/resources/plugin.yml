@@ -1,0 +1,4 @@
+name: totoro
+version: '${version}'
+main: net.isksss.mc.totoro.Totoro
+api-version: '1.20'
